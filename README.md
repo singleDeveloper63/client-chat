@@ -1,3 +1,7 @@
+First you need clone my websocket-demo repository . Websocket-demo repository is backend for this client-chat.
+After clonning even repos you can run this app.
+First run websocket-demo project, then this project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
